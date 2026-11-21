@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cebu City Weather</string>
+    <string name="weather_icon_desc">Weather Icon</string>
+</resources>
